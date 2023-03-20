@@ -26,7 +26,7 @@ From a terminal:
 
 3) Activate the Virtual Environment source .venv/bin/activate (Optional)
 
-4) Install Requirements pip3 install -r requirements.txt
+4) Install Requirements pip3 install -r library_requirements.txt
 
 ## Input Data
 
