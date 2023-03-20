@@ -22,7 +22,8 @@
 
 The input is a text file which consists of all the webpage links given in the excel sheet.
 Snapshot of the txt file: 
-    ![image.png](attachment:image.png)
+    <img width="447" alt="Screenshot 2023-03-19 at 16 20 49" src="https://user-images.githubusercontent.com/125713954/226364906-e512d1b6-13e1-4da4-8fd7-764e459be25d.png">
+
 ## Procedure
 
 1) Open the "urls.txt" file in read mode.
