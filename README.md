@@ -20,7 +20,7 @@
 
 From a terminal:
 
-1) Clone this project git clone https://github.com/scrapehero-code/amazon-scraper.git and cd into it cd amazon-scraper
+1) Clone this project git clone https://github.com/Harshinikavuru2608/ASIN-extraction
 
 2) Add a Virtual Environment python3 -m venv .venv (Optional)
 
