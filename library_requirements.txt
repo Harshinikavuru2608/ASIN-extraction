@@ -1,0 +1,7 @@
+requests
+BeautifulSoup
+Counter
+json
+concurrent.futures
+time
+re
