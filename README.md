@@ -18,6 +18,16 @@
 
 ## Usage
 
+From a terminal:
+
+1) Clone this project git clone https://github.com/scrapehero-code/amazon-scraper.git and cd into it cd amazon-scraper
+
+2) Add a Virtual Environment python3 -m venv .venv (Optional)
+
+3) Activate the Virtual Environment source .venv/bin/activate (Optional)
+
+4) Install Requirements pip3 install -r requirements.txt
+
 ## Input Data
 
 The input is a text file which consists of all the webpage links given in the excel sheet.
