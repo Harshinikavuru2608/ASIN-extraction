@@ -23,7 +23,8 @@
 The input is a text file which consists of all the webpage links given in the excel sheet.
 Snapshot of the txt file: 
 
-    <img width="447" alt="Screenshot 2023-03-19 at 16 20 49" src="https://user-images.githubusercontent.com/125713954/226364906-e512d1b6-13e1-4da4-8fd7-764e459be25d.png">
+   <img width="447" alt="Screenshot 2023-03-19 at 16 20 49" src="https://user-images.githubusercontent.com/125713954/226366829-57f632a9-0b10-486e-8930-10eb3d35f839.png">
+
 
 ## Procedure
 
