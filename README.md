@@ -47,11 +47,11 @@ Snapshot of the txt file:
 
 ![image.png](attachment:image.png)
 
-    we can observe from the above screenshot that the website consists of amazon products with their respective links. 
+    1) we can observe from the above screenshot that the website consists of amazon products with their respective links. 
      
-    Hence, we need to scrape out these amazon links of the products to get the ASINs of the products. 
+    2) Hence, we need to scrape out these amazon links of the products to get the ASINs of the products. 
     
-    For the process of scraping we will use the "BeautifulSoup" library.
+    3) For the process of scraping we will use the "BeautifulSoup" library.
     
 ### Snapshot of "Output.txt":
 
