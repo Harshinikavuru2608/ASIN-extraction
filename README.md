@@ -22,6 +22,7 @@
 
 The input is a text file which consists of all the webpage links given in the excel sheet.
 Snapshot of the txt file: 
+
     <img width="447" alt="Screenshot 2023-03-19 at 16 20 49" src="https://user-images.githubusercontent.com/125713954/226364906-e512d1b6-13e1-4da4-8fd7-764e459be25d.png">
 
 ## Procedure
@@ -46,7 +47,7 @@ Snapshot of the txt file:
 
 ### Snapshot of example webpage:
 
-![image.png](attachment:image.png)
+<img width="1093" alt="Screenshot 2023-03-19 at 16 39 18" src="https://user-images.githubusercontent.com/125713954/226365583-8540378a-26fc-4906-86d6-f51ded3b16ce.png">
 
     1) we can observe from the above screenshot that the website consists of amazon products with their respective links. 
      
@@ -56,6 +57,13 @@ Snapshot of the txt file:
     
 ### Snapshot of "Output.txt":
 
-![Screenshot%202023-03-19%20at%2016.36.45.png](attachment:Screenshot%202023-03-19%20at%2016.36.45.png)
+<img width="583" alt="Screenshot 2023-03-19 at 16 36 45" src="https://user-images.githubusercontent.com/125713954/226365338-dbb1f010-57ac-46fa-ac9e-2dcec43ab2a3.png">
+
 
  The output.txt consists of all the amazon product links present in the website.
+ 
+ ### Snapshot of "Output1.txt" :
+ 
+ ![image](https://user-images.githubusercontent.com/125713954/226366040-7fee51be-2f7e-448a-8aba-b2afb2f1c403.png)
+
+ In the snapshot of output1.txt file we can see all the different ASINs present in the given website. There are twenty different products with different ASIN number present on the webpage.
